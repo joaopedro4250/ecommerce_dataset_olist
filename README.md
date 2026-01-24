@@ -105,4 +105,4 @@ Analista de Dados Júnior / Analista de TI
 
 GitHub: https://github.com/joaopedro4250
 
-LinkedIn: (adicione aqui quando quiser)
+LinkedIn: https://www.linkedin.com/in/joao-pedro-alexandre-145b10351/
