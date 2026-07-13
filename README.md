@@ -6,7 +6,7 @@ Projeto completo de análise de dados end-to-end utilizando o dataset público d
 
  Dashboard
 
-![Dashboard Olist](images/dashboard_olist.png)
+![Dashboard Olist](E-Commerce_Dataset_by_Olist/power_bi/dashboard_olist.png)
 
 ---
 
